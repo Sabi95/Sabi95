@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Savi 😊</h1>
 <h3 align="center">Currently on the lookout for a full-stack developer job in Japan!</h3>
 
-- 🔭 I’m currently working on [Not-Alone](https://not-alone.online)
+- 🔭 I’m currently working on [Not-Alone](https://www.not-alone.online)
 
 - 🌱 I’m currently learning **React**
 
