@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on [Not-Alone](https://www.not-alone.online)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 
 - 📫 How to reach me: **s.w.wewala@gmail.com**
 
