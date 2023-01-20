@@ -1,9 +1,9 @@
 <h1 align="center">Hello! I'm Savi 😊</h1>
 <h3 align="center">Currently on the lookout for a full-stack developer job in Japan!</h3>
 
-- 🔭 I’m currently working on Adopt-Me, a pet adoption app!
+- 🔭 I’m currently working on **Adopt-Me**, a pet adoption app!
 
-- 🌱 I’m currently learning **React** 
+- 🌱 I’m currently learning **C++** 
 
 - 📫 How to reach me: **s.w.wewala@gmail.com**
 
