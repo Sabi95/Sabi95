@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Savi 😊</h1>
-<h3 align="center">Currently on the lookout for a full-stack developer job in Japan!</h3>
+<h3 align="center">Currently working as a QA Engineer in Japan!</h3>
 
 - 🔭 I’m currently working on **Adopt-Me**, a pet adoption app!
 
